@@ -6,7 +6,7 @@
 <li><code>$ pip2 install mechanize</code></li>
 <li><code>$ pip2 install requests</code></li>
 <li><code>$ pkg install git</code></li>
-<li><code>$ git clone https://github.com/MrDebo/New-Elite</code></li>
+<li><code>$ git clone https://github.com/heri2610/New-Elite</code></li>
 <li><code>$ cd New-Elite</code></li>
 <li><code>$ ls</code></li>
 <li><code>$ python2 dark.py</code></li>
